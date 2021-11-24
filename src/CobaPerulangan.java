@@ -18,7 +18,7 @@ public class CobaPerulangan {
 			}
 			count++;
 		}
-		System.out.println("Than You!");
+		System.out.println("You have use it "+count+" times\n"+"Than You!");
 	}
 
 }
